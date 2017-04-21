@@ -1,3 +1,4 @@
+#!python27
 animals = {'cat', 'dog'}
 print 'cat' in animals
 animals.add('fish')

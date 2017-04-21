@@ -1,3 +1,4 @@
+#!python27
 class Greeter(object):
     #Constructor
     def  __init__(self, name):

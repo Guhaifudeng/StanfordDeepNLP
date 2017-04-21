@@ -1,3 +1,4 @@
+#!python27
 import numpy as np
 from scipy.misc import imread, imresize
 import matplotlib.pyplot as plt

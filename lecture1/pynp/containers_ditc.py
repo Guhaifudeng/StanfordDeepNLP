@@ -1,3 +1,4 @@
+#!python27
 d = { 'cat':'cute', 'dog':'furry'}
 print d['cat']
 print 'cat' in d # ture or false

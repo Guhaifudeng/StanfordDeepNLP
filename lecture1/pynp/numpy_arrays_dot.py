@@ -1,3 +1,4 @@
+#!python27
 import numpy as np
 x = np.array([[1,2,3],[4,4,6]])
 y = np.array([[4,5],[7,8],[2,3]])

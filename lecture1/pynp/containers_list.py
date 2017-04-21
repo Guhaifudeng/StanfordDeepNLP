@@ -1,3 +1,4 @@
+#!python27
 from numpy import *
 nums = ones(1,int,5) + range(5)
 print nums

@@ -1,3 +1,4 @@
+#!python27
 import numpy as np
 v = np.array([1,2,3])
 w = np.array([4,5])

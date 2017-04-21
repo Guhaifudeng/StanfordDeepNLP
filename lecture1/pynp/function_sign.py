@@ -1,3 +1,4 @@
+#!python27
 def sign(x):
     if x > 0:
         return 'positive'

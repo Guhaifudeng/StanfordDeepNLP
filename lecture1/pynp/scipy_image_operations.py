@@ -1,3 +1,4 @@
+#!python27
 from scipy.misc import imread, imsave, imresize
 #import imread wrong
 # You might need to install PIL or Pillow.
